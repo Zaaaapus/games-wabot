@@ -1,7 +1,7 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi • Pulsa 」
 │ • Indosat Ooredoo [085713964963]
-│ • Tri [089677134384
+│ • Tri [089677134384]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
